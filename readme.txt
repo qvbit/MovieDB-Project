@@ -1,4 +1,4 @@
-#Project 1 for Introductor Databases Course
+Project 1 for Introduction to Database Systems
 
 (Final Project Grade: 97/100)
 
