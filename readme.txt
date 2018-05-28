@@ -1,3 +1,5 @@
+(Final Project Grade: 97/100)
+
 Met all the criteria of the project which includes:
 
 Five input pages:
